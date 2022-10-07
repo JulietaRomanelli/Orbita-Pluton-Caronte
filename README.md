@@ -6,3 +6,5 @@ Los parámetros a elección se pueden ir modificando para observar diferentes pe
 Además, se puede realizar una evaluación de los métodos empleados ya que también se calculan los errores en las trayectorias según el modelo usado. 
 
 A partir de diferentes simulaciones se obtuvo los rangos de velocidades iniciales del satélite a partir de los que este chocaba con Plutón o daba órbitas por ciertas características, hasta que se salia del sistema. 
+
+Además para analizar la influencia de la rotación entre los cuerpos al agregarle una fuerza centrífuga, se realizó un código aparte que permita hallas los Puntos de Lagrange del sistema rotante. 
